@@ -1,4 +1,4 @@
-# Project name 3
+# Project name  
 
 - typesscript  
 - zustand
