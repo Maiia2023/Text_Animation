@@ -1,4 +1,4 @@
 # Project name
 
--typesscript
--zustand
+- typesscript  
+- zustand
